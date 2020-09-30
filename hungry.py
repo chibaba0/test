@@ -7,3 +7,4 @@ else:
     if thirsty == 'yes':
         print('drink water')
     print("do your homework")
+    print('drink soda')
